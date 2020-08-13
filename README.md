@@ -1,5 +1,1 @@
-# wordpress
-# wordpress
-# wordpress
-# wordpress
-# wordpress
+# Customized Wordpress Deployment on Kubernetes
